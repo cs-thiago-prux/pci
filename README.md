@@ -1,1 +1,1 @@
-.
+PCI compliance s important because customers card information is critical, the lose of this information can incur fines and the lose of customer trust. Following it drastically decreases the probability of data breaches.
